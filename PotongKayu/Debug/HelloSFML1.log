@@ -1,0 +1,14 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(467,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (HelloSFML1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(228,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(245,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(281,31): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(284,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(305,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(309,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(331,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(335,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(357,34): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(361,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\main.cpp(386,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  HelloSFML1.vcxproj -> C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\Debug\PotongKayu.exe

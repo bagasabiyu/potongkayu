@@ -1,0 +1,2 @@
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\Debug\PotongKayu.exe
+C:\Users\bagas\OneDrive\Documents\Visual Studio 2019\projects\HelloSFML1\HelloSFML1\Debug\PotongKayu.pdb
